@@ -1,5 +1,4 @@
-### :sunflower: Attempt to create an NPM package to fetch quotes based on _various categories_ , explained by 
-### 'Bhagawad Gita' : Holy scripture which includes dialogues between Arjuna and Lord Krishna. 
+### :sunflower: Attempt to create an NPM package to fetch quotes based on the _various categories_ , explained in 'Bhagawad Gita' : Holy scripture which includes dialogues between Arjuna and Lord Krishna. 
 
 ### ⏩ [View on NPM Registry](https://www.npmjs.com/package/epic-quotes)
 
