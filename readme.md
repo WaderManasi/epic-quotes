@@ -1,5 +1,5 @@
 ### :sunflower: Attempt to create an NPM package to fetch inspiring quotes from 'Bhagawad Gita' : Holy scripture which includes dialogues between Arjuna and Lord Krishna. 
-### 🌱[View on NPM Registry](https://www.npmjs.com/package/epic-quotes)
+### ✔️[View on NPM Registry](https://www.npmjs.com/package/epic-quotes)
 
 ## Installation
 
