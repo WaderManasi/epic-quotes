@@ -26,21 +26,20 @@ Note: All parameters are _'case in-sensitive'_
 
 ## Usage
 
-```
+`
 // including the package
 const gita = require('epic-quotes');
 
 const getMessage = async() => {
 
+// storing fetched data
 var messageFetched = await gita.getQuote('wisdom');
-
-//fetching quote
 
 console.log(messageFetched);
 }  
 getMessage();
 
-```
+`
 
 
 ---
