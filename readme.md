@@ -4,7 +4,7 @@ NPM package to fetch inspiring quotes from 'Bhagawad Gita' : Holy scripture whic
 
 ## Installation
 
-$ npm i --save epic-quotes  
+`$ npm i --save epic-quotes  `
 
 ## Parameters
 
