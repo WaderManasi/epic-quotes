@@ -1,6 +1,6 @@
 ### :sunflower: Attempt to create an NPM package to fetch quotes based on the _various categories_ , explained in 'Bhagawad Gita' : Holy scripture which includes dialogues between Arjuna and Lord Krishna. 
 
-<img src="https://socialify.git.ci/wadermanasi/epic-quotes/image?language=1&owner=1&theme=Light" alt="epic-quotes" width="440" height="120" />
+<img src="https://socialify.git.ci/wadermanasi/epic-quotes/image?language=1&owner=1&theme=Light" alt="epic-quotes" width="540" height="220" />
 
 ### ⏩ [View on NPM Registry](https://www.npmjs.com/package/epic-quotes)
 
