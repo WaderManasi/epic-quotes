@@ -26,7 +26,8 @@ Note: All parameters are _'case in-sensitive'_
 
 ## Usage
 
-`
+```
+
 // including the package
 const gita = require('epic-quotes');
 
@@ -39,8 +40,7 @@ console.log(messageFetched);
 }  
 getMessage();
 
-`
-
+```
 
 ---
 
