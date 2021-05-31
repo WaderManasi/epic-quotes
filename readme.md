@@ -42,6 +42,6 @@ getMessage();
 
 ```
 
----
+![epic-quotes](https://socialify.git.ci/wadermanasi/epic-quotes/image?language=1&owner=1&theme=Light)
 
 ##  🌼 STAY MOTIVATED ! 🌼
